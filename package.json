@@ -9,6 +9,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo/vector-icons": "^15.0.2",
     "expo": "~54.0.7",
     "expo-constants": "~18.0.9",
     "expo-dev-client": "~6.0.12",
@@ -27,6 +28,7 @@
   },
   "devDependencies": {
     "@trivago/prettier-plugin-sort-imports": "^5.2.2",
+    "@types/expo__vector-icons": "^9.0.1",
     "@types/react": "~19.1.0",
     "babel-preset-expo": "^54.0.2",
     "prettier": "^3.6.2",

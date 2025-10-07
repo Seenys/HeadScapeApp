@@ -9,6 +9,8 @@ const HomeScreen = () => {
       <FlatList
         data={meditations}
         renderItem={({ item }) => <MeditationListItem meditation={item} />}
+        contentContainerClassName="gap-8 p-3"
+        className="bg-white"
       />
     </>
   );

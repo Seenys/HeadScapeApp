@@ -7,6 +7,7 @@
       "@components/*": ["./src/components/*"],
       "@data/*": ["./src/data/*"],
       "@types/*": ["./src/types/*"]
-    }
+    },
+    "types": ["expo__vector-icons"]
   }
 }
